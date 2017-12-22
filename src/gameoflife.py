@@ -1,5 +1,4 @@
-import time
-import dis
+# TODO: Optimize this piece of ...
 
 def countNB(playarea, imin, imax, jmin, jmax, x, y):
     nb = 0
