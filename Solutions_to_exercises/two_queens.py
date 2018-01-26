@@ -4,7 +4,6 @@
 # In English: N Queens problem, but with two queens and board of own choosing (variable n).
 
 import time
-import numpy as np
 from math import factorial as fa
 import operator as op
 import functools
