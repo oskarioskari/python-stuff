@@ -1,5 +1,7 @@
 # N Queens problem, mutta kahdella kuningattarella ja vapaavalintaisen kokoisella (suurella) laudalla.
 # Tavoitteena ratkaista, että monellako tapaa nappulat voidaan sijoittaa siten, että ne eivät uhkaa toisiaan.
+#
+# In English: N Queens problem, but with two queens and board of own choosing (variable n).
 
 import time
 import numpy as np
